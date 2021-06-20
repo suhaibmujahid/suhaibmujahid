@@ -1,16 +1,14 @@
-### Hi there 👋
+# About me
+I am a research assistant in the [Department of Computer Science and Software Engineering](https://www.concordia.ca/ginacody/computer-science-software-eng.html) at [Concordia University](https://www.concordia.ca/), Canada, where I work under the supervision of Prof. [Emad Shihab](http://das.encs.concordia.ca/members/emad-shihab/) as a member of the [Data-driven Analysis of Software Lab (DAS)](http://das.encs.concordia.ca/). I consider myself a passionate developer who loves to do research that makes a difference and improves the lives of others. My general research area is Software Engineering. I am particularly interested in develop solutions that can help software practitioners improve their software. My work is well received and used by industry, and I often contribute to open-source projects.
 
-<!--
-**suhaibmujahid/suhaibmujahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Research Interests
+- Mining Software Repositories
+- Software Ecosystems
+- Release Engineering
+- Machine Learning on Code
+- Defect Prediction and Avoidance
+- Distributed Systems including Web Services
+- Cloud Computing
+- Software Architecture
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For full detail about my research please look at my [publications](https://suhaib.ca/publications/).
